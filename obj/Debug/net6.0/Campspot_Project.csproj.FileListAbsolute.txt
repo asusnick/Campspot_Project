@@ -1,0 +1,5 @@
+C:\git\Me\Campspot_Project\obj\Debug\net6.0\Campspot_Project.csproj.AssemblyReference.cache
+C:\git\Me\Campspot_Project\obj\Debug\net6.0\Campspot_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Me\Campspot_Project\obj\Debug\net6.0\Campspot_Project.AssemblyInfoInputs.cache
+C:\git\Me\Campspot_Project\obj\Debug\net6.0\Campspot_Project.AssemblyInfo.cs
+C:\git\Me\Campspot_Project\obj\Debug\net6.0\Campspot_Project.csproj.CoreCompileInputs.cache

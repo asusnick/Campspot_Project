@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6fa1091f_002Dbe25_002D4700_002Daa63_002D13537fe007c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchAvailability_ProvidingAllInputs_ReturnsResults" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::71C35A6C-9609-4E93-A4DC-42C24FDC333D::net6.0::Campspot.E2E.PlaywrightTests.HomePageSearchTests.SearchAvailability_ProvidingAllInputs_ReturnsResults&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4ed2314_002Dfd5f_002D4125_002D9c8d_002Def18ba5dadab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomePageSearchTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::71C35A6C-9609-4E93-A4DC-42C24FDC333D::net6.0::Campspot.E2E.PlaywrightTests.HomePageSearchTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fe5bc823_002Dc2c9_002D4c8b_002Db3d4_002D0995fa009f92/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HomePageSearchTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::71C35A6C-9609-4E93-A4DC-42C24FDC333D::net6.0::Campspot.E2E.PlaywrightTests.HomePageSearchTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
