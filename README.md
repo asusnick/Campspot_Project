@@ -37,3 +37,4 @@ Additionally, I would like to refactor and remove any hardcoded values and redun
 
 - I thought I would be able to easily find a date for Check In and Check Out but working with a datepicker without an input field and no traditional DateTime formats made me think a bit more with how to select dates using DateTimes.
 - I did not check security or permissions and just assumed that anyone has access to this search.
+- I tried to not get too involved in the TestOps side. Normally, I would be more thoughtful with my .gitignore, I'd add a yml file, I'd set up pipelines to get tests running automatically on commits and merges.
