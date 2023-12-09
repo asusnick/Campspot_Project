@@ -2,7 +2,6 @@ namespace Campspot_Project.E2E.Tests;
 
 [TestFixture]
 [FixtureLifeCycle(LifeCycle.InstancePerTestCase)]
-[Parallelizable(ParallelScope.All)]
 public class HomePageSearchTests : E2ETestBase
 {
     [Test]

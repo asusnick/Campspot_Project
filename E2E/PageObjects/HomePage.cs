@@ -20,12 +20,16 @@ public sealed class HomePage
 
     public ILocator GetLocationInput()
     {
-        return _page.Locator(".location-search-input");
+        var location = _page.Locator(".location-search-input");
+        _page.WaitForLoadStateAsync();
+        return location;
     }
 
     public ILocator GetLocationInputErrorMessage()
     {
-        return _page.Locator(".home-hero-search-form-location .home-hero-search-form-error-message");
+        var message = _page.Locator(".home-hero-search-form-location .home-hero-search-form-error-message");
+        _page.WaitForLoadStateAsync();
+        return message;
     }
 
     public ILocator GetDatePicker(string checkInOut)
@@ -37,7 +41,9 @@ public sealed class HomePage
     public ILocator SelectDateFromDropdown(int day)
     {
         _page.Locator(".aggredator-dropdown");
-        return _page.GetByRole(AriaRole.Button).And(_page.GetByText(day.ToString()));
+        var selectedDate = _page.GetByRole(AriaRole.Button).And(_page.GetByText(day.ToString()));
+        _page.WaitForLoadStateAsync();
+        return selectedDate;
     }
 
     public ILocator GetGuestsPicker()
