@@ -29,7 +29,7 @@ If provided more time, there are several scenarios I would like to cover. See so
 
 - No location provided returns results using browser location
 - Can't search for past dates
-- Character limits and invalid inputs
+- Complex date combos and invalid inputs
 
 Additionally, I would like to refactor and remove any hardcoded values and redundancies if possible. I would also like to add tests around the search result page.
 
