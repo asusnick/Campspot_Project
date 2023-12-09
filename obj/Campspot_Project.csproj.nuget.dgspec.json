@@ -41,10 +41,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "FluentAssertions": {
-              "target": "Package",
-              "version": "[6.12.0, )"
-            },
             "Microsoft.Playwright.NUnit": {
               "target": "Package",
               "version": "[1.40.0, )"

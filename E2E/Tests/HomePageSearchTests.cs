@@ -39,7 +39,7 @@ public class HomePageSearchTests : E2ETestBase
         await Expect(searchPage).ToHaveURLAsync(expectedUrlWithSearchParams);
     }
 
-/*    [Test]
+    [Test]
     public async Task Search_ProvideNoMatchingLocations_ReturnValidationErrorMessage()
     {
         // Arrange
@@ -55,5 +55,5 @@ public class HomePageSearchTests : E2ETestBase
 
         // Assert
         await Expect(results).ToContainTextAsync(expectedErrorMessage);
-    }*/
+    }
 }
